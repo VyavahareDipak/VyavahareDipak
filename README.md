@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dipak</h1>
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="coding" width='400' src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"></img>
+
 - 💬 Ask me about **Data Structures Algorithms and MERN Stack**
 
 - 📫 How to reach me **dipakvyavahare231@gmail.com**
